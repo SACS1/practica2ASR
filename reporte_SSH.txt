@@ -1,0 +1,21 @@
+version: 2
+device: MiniV
+date: 04 Apr 2022 01:46:50
+defaultProtocol: radius
+
+rdate: 04 Apr 2022 01:51:50#NAS-IP-Address
+4: 192.168.3.22
+#NAS-Port
+5: 22
+#Initial-State-Input-Packets
+1799215.2611669232
+#Acct-Input-Packets
+47: 13.738833076794053
+#Final-State-Input-Packets
+1799229.0
+#Initial-State-Output-Packets
+988895.530447222
+#Acct-Output-Packets
+47: 1.4695527780903446
+#Final-State-Output-Packets
+988897.0
